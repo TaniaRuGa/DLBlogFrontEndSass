@@ -1,3 +1,33 @@
+@charset "UTF-8";
+body {
+  font-family: "Poppins", sans-serif;
+}
 
+.logo-imagen {
+  width: 55px;
+  height: 55px;
+  top: 1742px;
+  left: 105px;
+  border-radius: 10px;
+  margin-top: 38px;
+  margin-bottom: 37px;
+  color: rgba(0, 0, 0, 0.2509803922);
+}
+
+.logo__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  display: inline;
+  margin-top: 50px;
+  margin-left: 21px;
+  border-color: #CCCCCC;
+}
+
+/*Línea de separación de secciones*/
+.lineahoriz {
+  width: 100%;
+}
 
 /*# sourceMappingURL=style.css.map */
