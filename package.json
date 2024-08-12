@@ -1,0 +1,14 @@
+{
+  "name": "blogfrontendsass",
+  "version": "1.0.0",
+  "description": "Blog Frontend Sass",
+  "main": "node index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Tania Ruiz Garay",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
