@@ -60,7 +60,7 @@ body {
 }
 
 .crate-nav {
-  background-color: #CCCCCC;
+  background-color: #ffffff;
 }
 
 .nav-link {
@@ -68,7 +68,61 @@ body {
   font-weight: 600px;
 }
 
-.logo-image {
+.form__text {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.form__input {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.crate {
+  margin-left: 55px;
+  margin-bottom: 30px;
+}
+
+.crate__son {
+  width: 96%;
+  height: 180px;
+  background-color: #63af2b;
+  border-radius: 5px;
+}
+
+.container__relacionados {
+  margin-left: 70px;
+}
+
+.crate__relacionados {
+  margin-top: 20px;
+}
+
+.crate__sub {
+  width: 30%;
+  height: 55px;
+  background-color: #ffffff;
+  margin-left: 10%;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  margin-top: 25px;
+}
+
+.container-text {
+  margin-left: 4%;
+  margin-right: 40px;
+  margin-top: 40px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.crate-logo {
+  margin-bottom: 10px;
+}
+
+.logo {
   margin-top: 38px;
   margin-bottom: 37px;
   margin-left: 55px;
@@ -79,9 +133,32 @@ body {
   margin-left: 21px;
 }
 
-/*footer*/
-/*post*/
-/*registro*/
+.logo__text--footer {
+  margin-top: 10px;
+  margin-left: 70%;
+}
+
+.logo-post {
+  margin-top: 35px;
+  margin-left: 4%;
+}
+
+.logo__title--post {
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+.text__date--Nov {
+  margin-top: 7px;
+}
+
+.text__paragraph {
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
 /*vacio*/
 /*vacio*/
 
