@@ -1,1 +1,38 @@
 /*buttons*/
+.button__first{
+    text-align: center;
+}
+.button-send{
+    width: 20vw;
+    height: 3vw;
+    background-color: $color-green;
+    border-radius: 5px;
+    border-color: $color-white1;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: $color-white1;
+}
+.button__secundary{
+    text-align: center;
+}
+.button-google{
+    background-color: $color-white2;
+    border-color: $color-white1;
+    border: 1px solid $color-gray0;
+    border-radius: 5px;
+    width: 20vw;
+    height: 3vw;
+}
+.button__subscribe{
+    width: 150px;
+    height: 40px;
+    margin-left: 40%;
+    margin-top: 25px;
+    border: 1px solid $color-white0;
+    border-radius: 5px;
+    background-color: $color-white0;
+    color: $color-black;
+    font-size: 18px;
+    font-weight: 600;
+}

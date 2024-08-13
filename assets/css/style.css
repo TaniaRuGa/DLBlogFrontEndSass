@@ -6,6 +6,55 @@
 }
 
 /*buttons*/
+.button__first {
+  text-align: center;
+}
+
+.button-send {
+  width: 20vw;
+  height: 3vw;
+  background-color: #63af2b;
+  border-radius: 5px;
+  border-color: #ffffff;
+  border: none;
+  font-size: 20px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.button__secundary {
+  text-align: center;
+}
+
+.button-google {
+  background-color: #f5faf9;
+  border-color: #ffffff;
+  border: 1px solid #818181;
+  border-radius: 5px;
+  width: 20vw;
+  height: 3vw;
+}
+
+.button__subscribe {
+  width: 150px;
+  height: 40px;
+  margin-left: 40%;
+  margin-top: 25px;
+  border: 1px solid #CCCCCC;
+  border-radius: 5px;
+  background-color: #CCCCCC;
+  color: #000000;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.input__crate {
+  width: 20%;
+  height: 35px;
+  border-radius: 5px;
+  border: 1px solid #949292;
+}
+
 body {
   font-family: "Poppins", sans-serif;
 }
